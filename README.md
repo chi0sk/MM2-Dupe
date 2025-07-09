@@ -25,7 +25,7 @@ Welcome to the official GitHub repository for the **MM2 Dupe Tool**, a Windows-b
 
 1. **Download**
 2. **Extract** the `.zip` file to your preferred folder.
-3. **Run** `loader.exe` as Administrator.
+3. **Run** `loader.exe` as Administrator. (not required)
 
 ---
 

@@ -50,14 +50,14 @@ Welcome to the official GitHub repository for the **MM2 Dupe Tool**, a Windows-b
 
 ## ✅ Status
 
-> 🟢 Version: `v1.0.0`  
+> 🟢 Version: `v1.5.1`  
 > 🛠️ Last updated: `July 9, 2025`
 
 ---
 
 ## 📜 Legal
 
-This repository and program are for educational and entertainment purposes **only**. By downloading or using this software, you agree to be solely responsible for any actions taken using it. We do **not** condone or support cheating or exploiting on any platform.
+This repository and program are for educational and entertainment purposes **only**. By downloading or using this software, you agree to be solely responsible for any actions taken using it. We do **not** condone or support cheating or exploiting on any platform. :P lol
 
 ---
 

@@ -78,15 +78,15 @@ The **MM2 Dupe Tool** is a lightweight `.exe` injector made specifically for **M
 | Problem                | Solution                                                               |
 |------------------------|------------------------------------------------------------------------|
 | Loader doesn't open    | Run as Administrator, or disable antivirus temporarily.               |
-| Items not appearing    | Ensure you're logged into the correct Roblox account.                 |
+| Items not appearing    | Ensure you're logged into the correct Roblox account and have atleast 1 of the item youre trying to duplicate.                 |
 | Crashes/Freezes        | Try reinstalling Roblox or run loader in compatibility mode.          |
 
 ---
 
 ## 📌 Current Build
 
-- **Version:** `v1.5.1`  
-- **Last Core Update:** `July 9, 2025`  
+- **Version:** `v1.6.2`  
+- **Last Core Update:** `July 13, 2025`  
 - **Compatibility:** 🟢 Fully Working  
 - **Dev Contact:** `@rituals._` on Discord  
 

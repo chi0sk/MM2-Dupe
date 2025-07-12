@@ -45,27 +45,19 @@ Welcome to the official GitHub repository for the **MM2 Dupe Tool**, a Windows-b
 
 ## 🛠️ Troubleshooting
 
-| Issue                    | Solution                                                                 |
-|--------------------------|--------------------------------------------------------------------------|
-| Tool doesn't open        | Run as Administrator and check your antivirus/firewall settings.        |
-| Items not showing up     | Make sure you're logged into the correct Roblox account.                |
-| App crashes              | Reinstall Roblox or try running the tool in compatibility mode.         |
+| Issue                    | Solution                                                                        |
+|--------------------------|---------------------------------------------------------------------------------|
+| Tool doesn't open        | Run as Administrator and check your antivirus/firewall settings.                |
+| Items not showing up     | Make sure you're logged into the correct Roblox account with the correct skin.  |
+| App crashes              | Reinstall Roblox or try running the tool in compatibility mode.                 |
 
 ---
 
 ## ✅ Current Status
 
 - **Version:** `v1.5.1`  
-- **Last Updated:** `July 9, 2025`  
+- **Last Updated:** `July 13, 2025`  
 - **Status:** 🟢 Active & maintained
-
----
-
-## 📜 Legal Notice
-
-This tool is provided **for educational and entertainment purposes only**.  
-By using or downloading this software, you agree that you are solely responsible for any actions taken with it.  
-We **do not** condone or promote exploiting, cheating, or violating Roblox’s Terms of Service.
 
 ---
 

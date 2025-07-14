@@ -1,5 +1,5 @@
 ## USAGE OF THE TOOL CAN BE FOUND HERE: https://www.youtube.com/watch?v=wBKL1zucIOY&t=126s&ab_channel=samLeaks
-# NOTE: Usage of the tool in the linked video represents an old version (**V1.5.2**) . Both version work similar though.
+### NOTE: Usage of the tool in the linked video represents an old version (**V1.5.2**) . Both version work similar though. ###
 
 # 🗡️ INFO (Please read the whole thing below for infomation on the tool)
 

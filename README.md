@@ -1,6 +1,9 @@
+## USAGE OF THE TOOL CAN BE FOUND HERE: https://www.youtube.com/watch?v=wBKL1zucIOY&t=126s&ab_channel=samLeaks
+# NOTE: Usage of the tool in the linked video represents an old version (**V1.5.2**) . Both version work similar though.
+
 # 🗡️ MM2 Dupe Tool (.exe)
 
-> ⏱️ **Last Updated:** `00:30 • July 13, 2025`
+> ⏱️ **Last Updated:** `18:27 • July 14, 2025`
 
 ---
 
@@ -86,7 +89,7 @@ The **MM2 Dupe Tool** is a lightweight `.exe` injector made specifically for **M
 ## 📌 Current Build
 
 - **Version:** `v1.6.2`  
-- **Last Core Update:** `July 13, 2025`  
+- **Last Core Update:** `July 14, 2025`  
 - **Compatibility:** 🟢 Fully Working  
 - **Dev Contact:** `@rituals._` on Discord  
 

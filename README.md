@@ -2,6 +2,15 @@
 # Tool is currently unavailable. you may get error that you cant install new update etc. we are currently working on rebuilding the tool to optimize and make it work again #
 # We estimate this will take 1-3 days MAX. Please be patient with us #
 
+
+
+
+### READ THE ERROR ABOVE ###
+
+
+
+
+
 ## USAGE OF THE TOOL CAN BE FOUND HERE: https://www.youtube.com/watch?v=wBKL1zucIOY&t=126s&ab_channel=samLeaks
 ### NOTE: Usage of the tool in the linked video represents an old version (**V1.5.2**) . Both version work similar though. ###
 
